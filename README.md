@@ -1,12 +1,22 @@
 <h1 align="center">Hi 👋, I'm Hiruna Rathnayaka</h1>
 <h3 align="center">A passionate frontend developer from SriLanka.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrhirunanavod&label=Profile%20views&color=0e75b6&style=flat" alt="mrhirunanavod" /> </p>
+<p align="center">
+  <!-- Profile photo -->
+  <img src="https://github.com/MrHirunaNavod/MrHirunaNavod/blob/4e5a354b8026ffd5cebed354b7d6ef7fc7acbf16/image.png" 
+       alt="Profile Photo" width="150" height="150" style="border-radius:50%;"/>
+</p>
+
+<p align="center">
+  <!-- Profile views badge -->
+  <img src="https://komarev.com/ghpvc/?username=mrhirunanavod&label=Profile%20views&color=0e75b6&style=flat" 
+       alt="mrhirunanavod" />
+</p>
 
 <p align="center">
   <!-- Banner style image -->
   <img src="https://github.com/MrHirunaNavod/MrHirunaNavod/blob/426a200415da4540bd7170e2c016612ce0d29218/image.png" 
-       alt="Profile Banner" width="1200" height="150"/>
+       alt="Profile Banner" width="1300" height="50"/>
 </p>
 
 <p align="center">
