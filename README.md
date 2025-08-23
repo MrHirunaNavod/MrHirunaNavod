@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Banner style image -->
   <img src="https://github.com/MrHirunaNavod/MrHirunaNavod/blob/426a200415da4540bd7170e2c016612ce0d29218/image.png" 
-       alt="Profile Banner" width="1200" height="250"/>
+       alt="Profile Banner" width="1200" height="150"/>
 </p>
 
 <p align="center">
