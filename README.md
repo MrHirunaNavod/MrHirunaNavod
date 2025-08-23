@@ -3,7 +3,20 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrhirunanavod&label=Profile%20views&color=0e75b6&style=flat" alt="mrhirunanavod" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrhirunanavod" alt="mrhirunanavod" /></a> </p>
+<p align="center">
+  <!-- Banner style image -->
+  <img src="https://github.com/MrHirunaNavod/MrHirunaNavod/blob/426a200415da4540bd7170e2c016612ce0d29218/image.png" 
+       alt="Profile Banner" width="1200" height="250"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrhirunanavod" alt="mrhirunanavod" />
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on **Medisure**
 
