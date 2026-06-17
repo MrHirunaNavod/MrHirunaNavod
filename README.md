@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiruna Rathnayaka</h1>
-<h3 align="center">A passionate frontend developer from SriLanka.</h3>
+<h3 align="center">A passionate Network and System Engineer from SriLanka.</h3>
 
 <p align="center">
   <!-- Profile photo -->
