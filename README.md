@@ -28,9 +28,9 @@
 
 
 
-- 🔭 I’m currently working on **Medisure**
+- 🔭 I’m currently studying in **SLIIT**
 
-- 🌱 I’m currently learning **java,python,R,sql**
+- 🌱 I’m currently learning **Cisco,C,python**
 
 - 🤝 I’m looking for help with **Medisure,Car detection**
 
