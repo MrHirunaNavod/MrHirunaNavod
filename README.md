@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- GitHub Trophy -->
-  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fpallabi-sarkar-886b20214&ved=0CBYQjRxqFwoTCOjY-4KPsZYDFQAAAAAdAAAAABBp&opi=89978449)">
+  <a href="cartoon-trophy-isolated-transparent-background-png-psd_888962-1545.jpg.avif">
     <img src="https://github-profile-trophy.vercel.app/?username=mrhirunanavod" alt="mrhirunanavod" />
   </a>
 </p>
