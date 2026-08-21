@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Profile photo -->
   <img src="netEng.jpg.webp" 
-       alt="Profile Photo" width="200" height="180" style="border-radius:50%;"/>
+       alt="Profile Photo" width="230" height="200" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
