@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- GitHub Trophy -->
-  <a href="cartoon-trophy-isolated-transparent-background-png-psd_888962-1545.jpg.avif">
+  <a href="[cartoon-trophy-isolated-transparent-background-png-psd_888962-1545.jpg.avif](https://github.com/MrHirunaNavod/MrHirunaNavod/blob/79ef694216ff44b0ca438b4c63659c3051b4005b/cartoon-trophy-isolated-transparent-background-png-psd_888962-1545.jpg.avif)">
     <img src="https://github-profile-trophy.vercel.app/?username=mrhirunanavod" alt="mrhirunanavod" />
   </a>
 </p>
