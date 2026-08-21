@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **hirunarathnayaka055@gmail.com**
 
-- ⚡ Fun fact **called me as hiruu**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
