@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Banner style image -->
-  <img src="https://github.com/MrHirunaNavod/MrHirunaNavod/blob/426a200415da4540bd7170e2c016612ce0d29218/image.png" 
+  <img src="networking-neon-style-blue-wide-banner-design-background-abstract-modern-3d-banner-design-with-dark-blue-technology-geometric-background-vector-illustration_181182-28017.jpg.avif" 
        alt="Profile Banner" width="1300" height="50"/>
 </p>
 
