@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Profile photo -->
   <img src="netEng.jpg.webp" 
-       alt="Profile Photo" width="230" height="200" style="border-radius:50%;"/>
+       alt="Profile Photo" width="250" height="200" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <p align="center">
   <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" width="50"/>
+    <img src="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" width="40"/>
   </a>
 </p>
 
