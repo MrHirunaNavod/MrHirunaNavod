@@ -16,7 +16,7 @@
 <p align="center">
   <!-- Banner style image -->
   <img src="networking-neon-style-blue-wide-banner-design-background-abstract-modern-3d-banner-design-with-dark-blue-technology-geometric-background-vector-illustration_181182-28017.jpg.avif" 
-       alt="Profile Banner" width="1300" height="50"/>
+       alt="Profile Banner" width="1200" height="55"/>
 </p>
 
 <p align="center">
