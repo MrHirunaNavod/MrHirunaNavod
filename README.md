@@ -22,7 +22,7 @@
 <p align="center">
   <!-- GitHub Trophy -->
   <a href="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png">
-    <img src="[https://github-profile-trophy.vercel.app/?username=mrhirunanavod" alt="mrhirunanavod](https://github.com/MrHirunaNavod/MrHirunaNavod/blob/main/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)" />
+    <img src="91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
   </a>
 </p>
 
